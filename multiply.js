@@ -1,4 +1,4 @@
-function multiply(var1, var2)
+function multiply(var1a, var2a)
 {
-return var1*var2;
+return var1a*var2a;
 }
